@@ -15,6 +15,7 @@ import java.util.*;
  * @ClassName AutumnFactories
  * @Description 对 {@link SpringApplication} 中获取 META-INF/spring.factories 的代码进行扩展
  * 传入资源文件路径参数，调用可以获得相应文件中目标接口的实现类
+ * 实现目标实质上等同于 ServiceLoader 的 SPI 实现
  * @Author xiaoxuezhi
  * @DATE 2020/3/26 17:36
  * @Version 1.0
