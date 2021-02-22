@@ -18,7 +18,7 @@ import java.util.*;
  * @Description: 资源加载, copy {@link SpringFactoriesLoader} 代码, 资源路径改为使用传参的方式进行扩展
  * @Author: Xiao Xuezhi
  * @Date: 2020/3/26 21:21
- * @Version： 1.0
+ * @Version: 1.0
  * @see SpringFactoriesLoader
  */
 public final class ResourceLoader {
